@@ -1,3 +1,7 @@
+#Простенький скрипт по решению теста на сервисе вуза.
+
+
+
 from selenium import webdriver
 import time
 from fake_useragent import UserAgent
